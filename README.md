@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 [![iftikharyk StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/9103067)](https://stackoverflow.com/users/9103067/iftikharyk)
 <!--
 **iftikharyk/iftikharyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
